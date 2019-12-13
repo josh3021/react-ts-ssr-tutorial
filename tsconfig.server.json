@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "outDir": "build-server",
+    "module": "commonjs",
+    "target": "ES6",
+    "noImplicitAny": true,
+    "sourceMap": true,
+    "jsx": "react",
+    "moduleResolution": "node",
+    "baseUrl": "src",
+    "esModuleInterop": true
+  }
+}
